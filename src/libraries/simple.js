@@ -545,7 +545,7 @@ END:VCARD
             /*dynamicButtons.push(
               (copy && (typeof copy === 'string' || typeof copy === 'number')) && {
                 name: 'cta_copy',
-                buttonParamsJson: JSON.stringify({
+             GC   buttonParamsJson: JSON.stringify({
                   display_text: 'Copy',
                   copy_code: copy
                 })
